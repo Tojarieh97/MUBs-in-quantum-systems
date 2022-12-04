@@ -1,0 +1,11 @@
+name: Mubsenv
+dependencies:
+- python>=3.6
+- matplotlib<3.3
+- notebook
+- ipywidgets
+- qsymm
+- numpy
+- pip
+- pip:
+  - qiskit
