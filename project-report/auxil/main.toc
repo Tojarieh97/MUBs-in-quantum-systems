@@ -1,0 +1,33 @@
+\babel@toc {UKenglish}{}\relax 
+\babel@toc {UKenglish}{}\relax 
+\contentsline {section}{\numberline {1}Introduction}{1}{section.1}%
+\contentsline {section}{\numberline {2}Hamiltonians}{1}{section.2}%
+\contentsline {section}{\numberline {3}Optimizers}{2}{section.3}%
+\contentsline {subsection}{\numberline {3.1}COBYLA}{2}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}BFGS}{3}{subsection.3.2}%
+\contentsline {section}{\numberline {4}VQE}{4}{section.4}%
+\contentsline {subsection}{\numberline {4.1}QEE (Quantum Expectation Estimation)}{5}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Full and Linear Entangled Ansatz Circuits}{6}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}COBYLA runs}{6}{subsection.4.3}%
+\contentsline {subparagraph}{Results.}{7}{subparagraph*.3}%
+\contentsline {subsection}{\numberline {4.4}BFGS runs}{7}{subsection.4.4}%
+\contentsline {subparagraph}{Results.}{8}{subparagraph*.4}%
+\contentsline {subsection}{\numberline {4.5}Other Gradient-Free and Gradient-Based Optimizers}{8}{subsection.4.5}%
+\contentsline {section}{\numberline {5}SSVQE}{9}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Introduction}{9}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}SSVQE Ansatz Circuit}{10}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3}Runs}{10}{subsection.5.3}%
+\contentsline {subparagraph}{Results.}{10}{subparagraph*.6}%
+\contentsline {section}{\numberline {6}Weighted SSVQE for finding the k-th excited state}{11}{section.6}%
+\contentsline {subsection}{\numberline {6.1}Introduction}{11}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6.2}Runs}{11}{subsection.6.2}%
+\contentsline {subparagraph}{Results.}{12}{subparagraph*.7}%
+\contentsline {section}{\numberline {7}Weighted SSVQE}{12}{section.7}%
+\contentsline {subsection}{\numberline {7.1}Introduction}{12}{subsection.7.1}%
+\contentsline {subsection}{\numberline {7.2}Runs}{13}{subsection.7.2}%
+\contentsline {subparagraph}{Results.}{13}{subparagraph*.8}%
+\contentsline {section}{\numberline {8}Evaluation of Expectation Value via Pauli Strings}{13}{section.8}%
+\contentsline {section}{\numberline {9}Running on Real Hardware - IBM-Q}{15}{section.9}%
+\contentsline {section}{\numberline {10}Code Orientation}{15}{section.10}%
+\contentsline {section}{\numberline {11}Discussion}{16}{section.11}%
+\contentsline {section}{\numberline {12}Prospective Research}{16}{section.12}%
